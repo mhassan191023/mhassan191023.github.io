@@ -1,0 +1,18 @@
+#header01 {
+    text-align: center;
+}
+
+body {
+    background-color: aqua;
+}
+#h101 {
+    
+   text-align: center; 
+}
+
+button  {
+    height: 50 px;
+    width: : 100 px;
+    background-color: coral;
+    border-radius: 6px;
+}
